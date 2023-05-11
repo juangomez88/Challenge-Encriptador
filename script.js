@@ -52,7 +52,7 @@ function desencriptar(stringDesencriptada){
 }
 
 function copiartexto() {
-    let copiar = document.querySelector('.textarea');
+    let copiar = document.querySelector('.mensaje');
     let texto = document.getElementById('textoCopiar');
 
     texto.select();
