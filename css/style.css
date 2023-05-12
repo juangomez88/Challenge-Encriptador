@@ -70,7 +70,7 @@ main{
 
 .mensaje{
     background: white;
-    background-image: url('/img/spidy.png');
+    background-image: url('../img/spidy.jpg');
     background-size: 50%;
     background-repeat: no-repeat;
     border: none;
