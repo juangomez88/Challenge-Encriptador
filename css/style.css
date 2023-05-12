@@ -79,6 +79,7 @@ main{
     margin-top: 20px;
     padding-left: 20px;
     position: fixed;
+    font-size: 30px;
 }
 
 .mensaje:focus{
@@ -97,7 +98,7 @@ main{
     border-radius: 24px;
     color: #0A3871;
     cursor: pointer;
-    height: 67px;
+    height: 50px;
     margin-left: 30px;
     width: 328px;
 }
@@ -108,8 +109,22 @@ main{
     border-radius: 24px;
     color: white;
     cursor: pointer;
-    height: 67px;
+    height: 50px;
     width: 328px;
+}
+
+.btn-encriptar:hover{
+    color: #0A3871;
+    background: #fff;
+    font-size: 35px;
+    font: bold;
+}
+
+.btn-desencriptar:hover{
+    color: #0A3871;
+    background: #fff;
+    font-size: 35px;
+    font: bold;
 }
 
 .informacion{
